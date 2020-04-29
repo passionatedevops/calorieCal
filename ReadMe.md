@@ -20,8 +20,4 @@ ruby .\terminal_app.rb
 
 ## Flow
 
-![](images\Flow.png)
-![](.\images\Flow.png)
-![](/images/Flow.png)
-![](./images/Flow.png)
-
+![](https://github.com/passionatedevops/calorieCal/blob/master/images/Flow.JPG)
