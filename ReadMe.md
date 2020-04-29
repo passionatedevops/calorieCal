@@ -20,4 +20,4 @@ ruby .\terminal_app.rb
 
 ## Flow
 
-![](images/Flow.jpg)
+![](images/Flow.png)
