@@ -1,0 +1,32 @@
+Jasmine Rice 
+1
+Serve
+160
+Banana
+1
+Serve
+105
+KFC Crunchy Twister Wrap
+1
+Serve
+610
+KFC Fries (Regular)
+1
+Serve
+308
+Apple pie (McDonald)
+1
+Serve
+250
+Broccoli
+1
+cup
+31
+Spinach
+100
+gm
+23
+Caesar Salad
+100
+gm
+44
